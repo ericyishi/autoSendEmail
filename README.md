@@ -20,7 +20,7 @@
 ```
 ### 功能说明
 * 文件一共分为三个功能
-  1. 执行测试用例，生成美化报告【可以参考https://github.com/ericyishi/HTMLTestRunner_PY3 】
+  1. 执行测试用例，生成美化报告。可以参考https://github.com/ericyishi/HTMLTestRunner_PY3
   2. 找出最新日期的报告
      ```
       def find_newfile(test_dir):
