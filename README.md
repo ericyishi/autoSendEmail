@@ -35,6 +35,6 @@
   3. 以邮件的方式发送
 
 ### 备注
-  * 可以配合Jenkins完成持续集成
+  * 可以配合Jenkins完成持续集成。可以参考：https://github.com/ericyishi/summary/blob/master/tools/others/jenkins.md
 
 
